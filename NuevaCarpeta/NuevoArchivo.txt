@@ -1,4 +1,0 @@
-hola que pasa?
-nada solo un cambio
-
-anteriormente se realizo un commit, pero esta escritura es otro cambio, veamos que pasa ahora con este cambio... xauuuu
